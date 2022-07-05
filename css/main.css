@@ -1,0 +1,144 @@
+.sri {
+  display: flex;
+  background-color: #1c1c1f;
+}
+h1 {
+  font-size: 25px;
+  font-style: italic;
+  color: white;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.about {
+  background-color: #1c1c1f;
+  color: white;
+  width: 350px;
+  height: 600px;
+  line-height: 85px;
+  text-align: center;
+  margin-top: 0px;
+}
+.square {
+  display: flex;
+  font-size: larger;
+  font-style: revert;
+  margin: -515px -3px 2px 350px;
+}
+.fsd1,
+.fsd2,
+.fsd3,
+.fsd4 {
+  background-color: #051b2e;
+  text-align: center;
+  border: 1px solid;
+  height: 512px;
+  width: 215px;
+  color: white;
+  line-height: 70px;
+  margin: 0 10px;
+}
+.box {
+  border: solid 1px black;
+  width: 1300px;
+  height: 600px;
+  margin-top: 30px;
+  margin-left: 25px;
+}
+table tr td {
+  border: 1px solid;
+  width: 10%;
+  height: 10%;
+  text-align: center;
+}
+h3 {
+  margin-left: 862px;
+  margin-top: 10px;
+  color: white;
+}
+
+h5 {
+  position: relative;
+  bottom: 235px;
+  left: 1000px;
+}
+.expect {
+  margin: 30px 0px 0px 75px;
+  line-height: 35px;
+}
+.move {
+  margin: -486px 0px 0px 350px;
+  line-height: 95px;
+  color: white;
+}
+.sri {
+  display: flex;
+  background-color: #1c1c1f;
+}
+h1 {
+  font-size: 25px;
+  font-style: italic;
+  color: white;
+}
+.box {
+  border: solid 1px black;
+  width: 1300px;
+  height: 600px;
+  margin-top: 30px;
+  margin-left: 25px;
+}
+.about {
+  background-color: #1c1c1f;
+  color: white;
+  width: 350px;
+  height: 600px;
+  line-height: 85px;
+  text-align: center;
+  margin-top: 0px;
+}
+.input {
+  position: absolute;
+  left: 350px;
+  top: 70px;
+  width: 500px;
+  height: 530px;
+  background-color: darkslategrey;
+  color: orange;
+  text-align: center;
+  line-height: 60px;
+  font-size: 20px;
+}
+.detail,
+.detail2,
+.detail3,
+.detail4 {
+  position: absolute;
+  left: 350px;
+  top: 70px;
+  width: 500px;
+  height: 530px;
+  background-color: #0b2121;
+  color: #c3bfb7;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+}
+.span2 {
+  color: white;
+  margin: 25px 0px 0px 835px;
+  word-spacing: 20px;
+}
+.icofont-home,
+.icofont-automation,
+.icofont-designfloat,
+.icofont-users-social,
+.icofont-badge,
+.icofont-contact-add {
+  letter-spacing: 15px;
+  color: chartreuse;
+  font-size: 25px;
+}
+.icofont-edit,.icofont-ui-delete{
+  font-size:20px
+}
